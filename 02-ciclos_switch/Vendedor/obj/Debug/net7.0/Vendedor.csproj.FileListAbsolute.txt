@@ -1,0 +1,15 @@
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.csproj.AssemblyReference.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.AssemblyInfoInputs.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.AssemblyInfo.cs
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.csproj.CoreCompileInputs.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\bin\Debug\net7.0\Vendedor.exe
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\bin\Debug\net7.0\Vendedor.deps.json
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\bin\Debug\net7.0\Vendedor.runtimeconfig.json
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\bin\Debug\net7.0\Vendedor.dll
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\bin\Debug\net7.0\Vendedor.pdb
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.dll
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\refint\Vendedor.dll
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.pdb
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\Vendedor.genruntimeconfig.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Vendedor\obj\Debug\net7.0\ref\Vendedor.dll

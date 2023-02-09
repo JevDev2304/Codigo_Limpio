@@ -1,0 +1,15 @@
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\bin\Debug\net7.0\Promedio.exe
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\bin\Debug\net7.0\Promedio.deps.json
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\bin\Debug\net7.0\Promedio.runtimeconfig.json
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\bin\Debug\net7.0\Promedio.dll
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\bin\Debug\net7.0\Promedio.pdb
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.csproj.AssemblyReference.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.AssemblyInfoInputs.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.AssemblyInfo.cs
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.dll
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\refint\Promedio.dll
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.pdb
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\Promedio.genruntimeconfig.cache
+C:\Users\jvald\documents\U-Tercer-Semestre\Codigo_Limpio\02-ciclos_switch\Promedio\obj\Debug\net7.0\ref\Promedio.dll
